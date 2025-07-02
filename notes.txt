@@ -1,0 +1,54 @@
+1. Front-end
+2. Back-end
+
+Front-end
+- React - UI
+- Tailwind CSS - Styling
+- React Router DOM - Routing
+- Axios
+- React Hook
+- React DnD - Drag and Drop
+
+Back-end
+- Express + MongoDB
+- Mongoose
+- bcrypt - Password Hashing
+- JWT - JSON Web Token
+- CORS - Cross Origin Requests
+
+
+MVC Architecture
+- Model View Controller
+
+
+Development Roadmap
+Phase 1: Initial Setup
+
+Phase 2: Authentication & Authorization
+
+Phase 3: Task Management
+
+Phase 4: JIRA Board
+
+Phase 5: AI
+- Task generation
+- Prediction of task completion
+- Analysis
+
+Dev Tools & Deployment
+- Postmam - testing APIs
+- GitHub
+- CI/CD (Optional)
+- Deployment
+  - AWS EC2 / Render
+  - Vercel/Netlify
+
+================================
+
+Phase 1:
+- Setup Backend
+
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose dotenv bcryptjs jsonwebtoken cors
